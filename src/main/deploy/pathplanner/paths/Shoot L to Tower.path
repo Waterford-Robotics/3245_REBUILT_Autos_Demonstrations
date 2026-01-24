@@ -3,29 +3,29 @@
   "waypoints": [
     {
       "anchor": {
-        "x": 2.969,
-        "y": 7.602
+        "x": 3.0,
+        "y": 2.4
       },
       "prevControl": null,
       "nextControl": {
-        "x": 3.2076536550438393,
-        "y": 7.6764609490553015
+        "x": 3.4841599686129303,
+        "y": 2.583476984824184
       },
       "isLocked": false,
-      "linkedName": null
+      "linkedName": "Shoot L"
     },
     {
       "anchor": {
-        "x": 2.969,
-        "y": 4.025
+        "x": 1.55,
+        "y": 3.75
       },
       "prevControl": {
-        "x": 2.7418033214093507,
-        "y": 4.129315239717777
+        "x": 1.4083915688308017,
+        "y": 3.543973175965365
       },
       "nextControl": null,
       "isLocked": false,
-      "linkedName": "Center -90"
+      "linkedName": "Tower"
     }
   ],
   "rotationTargets": [],
@@ -42,13 +42,13 @@
   },
   "goalEndState": {
     "velocity": 0,
-    "rotation": -90.0
+    "rotation": 180.0
   },
   "reversed": false,
-  "folder": "Mia's paths and turns",
+  "folder": "Jet's efficient paths",
   "idealStartingState": {
     "velocity": 0,
-    "rotation": -90.0
+    "rotation": 46.273
   },
   "useDefaultConstraints": true
 }

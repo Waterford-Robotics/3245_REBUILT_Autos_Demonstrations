@@ -26,6 +26,6 @@
     }
   },
   "resetOdom": true,
-  "folder": null,
+  "folder": "Jet's mediocre autos",
   "choreoAuto": false
 }

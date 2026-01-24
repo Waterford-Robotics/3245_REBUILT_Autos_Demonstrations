@@ -8,24 +8,24 @@
       },
       "prevControl": null,
       "nextControl": {
-        "x": 2.5,
-        "y": 4.0
+        "x": 2.5867501170079663,
+        "y": 4.665132112351088
       },
       "isLocked": false,
       "linkedName": "In M"
     },
     {
       "anchor": {
-        "x": 1.55,
-        "y": 3.75
+        "x": 0.8,
+        "y": 5.95
       },
       "prevControl": {
-        "x": 2.55,
-        "y": 3.75
+        "x": 1.7183885576032796,
+        "y": 5.290763335591274
       },
       "nextControl": null,
       "isLocked": false,
-      "linkedName": "Tower"
+      "linkedName": "depot"
     }
   ],
   "rotationTargets": [],
@@ -45,7 +45,7 @@
     "rotation": 180.0
   },
   "reversed": false,
-  "folder": "Jet's mediocre paths",
+  "folder": "Jet's efficient paths",
   "idealStartingState": {
     "velocity": 0,
     "rotation": 0.0

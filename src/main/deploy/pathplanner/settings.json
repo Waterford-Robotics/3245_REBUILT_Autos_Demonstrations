@@ -3,11 +3,16 @@
   "robotLength": 0.9,
   "holonomicMode": true,
   "pathFolders": [
-    "Mia's paths and turns",
-    "Jet's inefficient paths"
+    "Jet's efficient paths",
+    "Jet's inefficient paths",
+    "Jet's mediocre paths",
+    "Mia's paths and turns"
   ],
   "autoFolders": [
-    "Jet's inefficient autos"
+    "Jet's inefficient autos",
+    "Jet's mediocre autos",
+    "Mia's autos",
+    "Jet's efficient autos"
   ],
   "defaultMaxVel": 3.0,
   "defaultMaxAccel": 3.0,

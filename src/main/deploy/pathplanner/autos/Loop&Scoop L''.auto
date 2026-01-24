@@ -13,7 +13,7 @@
         {
           "type": "path",
           "data": {
-            "pathName": "IM to O to pre Scoop R"
+            "pathName": "IM to O to pre Scoop L"
           }
         },
         {
@@ -23,7 +23,7 @@
               {
                 "type": "path",
                 "data": {
-                  "pathName": "Scoop R"
+                  "pathName": "Scoop L"
                 }
               },
               {
@@ -38,7 +38,7 @@
         {
           "type": "path",
           "data": {
-            "pathName": "Scooped to Shoot R"
+            "pathName": "Scooped to Shoot L"
           }
         },
         {
@@ -46,11 +46,23 @@
           "data": {
             "name": "shoot"
           }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Shoot L to Tower"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "climb"
+          }
         }
       ]
     }
   },
   "resetOdom": true,
-  "folder": null,
+  "folder": "Jet's efficient autos",
   "choreoAuto": false
 }

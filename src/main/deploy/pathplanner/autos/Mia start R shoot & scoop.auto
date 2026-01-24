@@ -7,79 +7,79 @@
         {
           "type": "path",
           "data": {
-            "pathName": "SR90D90"
+            "pathName": "Mia start R"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "R90L90"
+            "pathName": "Mia R to M"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "C90C0"
+            "pathName": "Mia turn L to M"
           }
         },
         {
           "type": "named",
           "data": {
-            "name": "its going to shoot i swear"
+            "name": "shoot"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "C0C90"
+            "pathName": "Mia turn M to L"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "C90R90"
+            "pathName": "Mia M to R"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "R90RN90"
+            "pathName": "Mia I to O R"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "RN90LN90"
+            "pathName": "Mia scoop L"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "LN90D90"
+            "pathName": "Mia O to I L"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "L90C90"
+            "pathName": "Mia L to M"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "C90C0"
+            "pathName": "Mia turn L to M"
           }
         },
         {
           "type": "named",
           "data": {
-            "name": "its going to shoot i swear"
+            "name": "shoot"
           }
         }
       ]
     }
   },
   "resetOdom": true,
-  "folder": null,
+  "folder": "Mia's autos",
   "choreoAuto": false
 }

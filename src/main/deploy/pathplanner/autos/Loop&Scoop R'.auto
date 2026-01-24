@@ -13,7 +13,7 @@
         {
           "type": "path",
           "data": {
-            "pathName": "IM to O to pre Scoop L"
+            "pathName": "IM to O to pre Scoop R"
           }
         },
         {
@@ -23,7 +23,7 @@
               {
                 "type": "path",
                 "data": {
-                  "pathName": "Scoop L"
+                  "pathName": "Scoop R"
                 }
               },
               {
@@ -38,7 +38,7 @@
         {
           "type": "path",
           "data": {
-            "pathName": "Scooped to Shoot L"
+            "pathName": "Scooped to Shoot R"
           }
         },
         {
@@ -51,6 +51,6 @@
     }
   },
   "resetOdom": true,
-  "folder": null,
+  "folder": "Jet's mediocre autos",
   "choreoAuto": false
 }

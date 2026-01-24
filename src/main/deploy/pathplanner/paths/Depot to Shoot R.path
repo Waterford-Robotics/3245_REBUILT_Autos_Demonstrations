@@ -3,29 +3,29 @@
   "waypoints": [
     {
       "anchor": {
-        "x": 3.5,
-        "y": 4.0
+        "x": 0.8,
+        "y": 5.95
       },
       "prevControl": null,
       "nextControl": {
-        "x": 2.5,
-        "y": 4.0
+        "x": 1.843736112114017,
+        "y": 5.8804566012515656
       },
       "isLocked": false,
-      "linkedName": "In M"
+      "linkedName": "depot"
     },
     {
       "anchor": {
-        "x": 1.55,
-        "y": 3.75
+        "x": 3.0,
+        "y": 5.6
       },
       "prevControl": {
-        "x": 2.55,
-        "y": 3.75
+        "x": 1.918488344486111,
+        "y": 5.774874074654699
       },
       "nextControl": null,
       "isLocked": false,
-      "linkedName": "Tower"
+      "linkedName": "Shoot R"
     }
   ],
   "rotationTargets": [],
@@ -42,13 +42,13 @@
   },
   "goalEndState": {
     "velocity": 0,
-    "rotation": 180.0
+    "rotation": -46.27303002005672
   },
   "reversed": false,
-  "folder": "Jet's mediocre paths",
+  "folder": "Jet's efficient paths",
   "idealStartingState": {
     "velocity": 0,
-    "rotation": 0.0
+    "rotation": 180.0
   },
   "useDefaultConstraints": true
 }

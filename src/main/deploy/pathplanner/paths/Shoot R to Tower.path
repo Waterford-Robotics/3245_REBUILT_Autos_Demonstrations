@@ -3,16 +3,16 @@
   "waypoints": [
     {
       "anchor": {
-        "x": 3.5,
-        "y": 4.0
+        "x": 3.0,
+        "y": 5.6
       },
       "prevControl": null,
       "nextControl": {
-        "x": 2.5,
-        "y": 4.0
+        "x": 3.2434054149096814,
+        "y": 5.7285842603200905
       },
       "isLocked": false,
-      "linkedName": "In M"
+      "linkedName": "Shoot R"
     },
     {
       "anchor": {
@@ -20,8 +20,8 @@
         "y": 3.75
       },
       "prevControl": {
-        "x": 2.55,
-        "y": 3.75
+        "x": 1.4149557613210506,
+        "y": 3.539612135331852
       },
       "nextControl": null,
       "isLocked": false,
@@ -45,10 +45,10 @@
     "rotation": 180.0
   },
   "reversed": false,
-  "folder": "Jet's mediocre paths",
+  "folder": "Jet's efficient paths",
   "idealStartingState": {
     "velocity": 0,
-    "rotation": 0.0
+    "rotation": -46.27303002005672
   },
   "useDefaultConstraints": true
 }
