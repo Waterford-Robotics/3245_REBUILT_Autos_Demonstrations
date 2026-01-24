@@ -9,7 +9,7 @@
       "prevControl": null,
       "nextControl": {
         "x": 2.25,
-        "y": 0.6000000000000005
+        "y": 0.6000000000000006
       },
       "isLocked": false,
       "linkedName": "Scooped L"
@@ -50,7 +50,7 @@
     "rotation": 46.273
   },
   "reversed": false,
-  "folder": null,
+  "folder": "Jet's inefficient paths",
   "idealStartingState": {
     "velocity": 0,
     "rotation": -90.0

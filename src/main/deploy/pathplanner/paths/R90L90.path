@@ -8,8 +8,8 @@
       },
       "prevControl": null,
       "nextControl": {
-        "x": 3.2187374382885716,
-        "y": 0.469454777041122
+        "x": 2.969,
+        "y": 0.20800000000000002
       },
       "isLocked": false,
       "linkedName": null
@@ -20,8 +20,8 @@
         "y": 4.025
       },
       "prevControl": {
-        "x": 2.8064552284996176,
-        "y": 3.835054751947072
+        "x": 2.969,
+        "y": 3.7750000000000004
       },
       "nextControl": null,
       "isLocked": false,
@@ -45,7 +45,7 @@
     "rotation": 90.0
   },
   "reversed": false,
-  "folder": null,
+  "folder": "Mia's paths and turns",
   "idealStartingState": {
     "velocity": 0,
     "rotation": 90.0

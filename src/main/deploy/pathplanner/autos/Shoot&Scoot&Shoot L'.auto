@@ -5,9 +5,15 @@
     "data": {
       "commands": [
         {
+          "type": "named",
+          "data": {
+            "name": "shoot"
+          }
+        },
+        {
           "type": "path",
           "data": {
-            "pathName": "O to pre Scoop L"
+            "pathName": "IM to O to pre Scoop L"
           }
         },
         {

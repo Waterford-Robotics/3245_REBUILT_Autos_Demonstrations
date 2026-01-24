@@ -5,6 +5,18 @@
     "data": {
       "commands": [
         {
+          "type": "named",
+          "data": {
+            "name": "shoot"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "IM to O R"
+          }
+        },
+        {
           "type": "path",
           "data": {
             "pathName": "O to pre Scoop R"
@@ -45,6 +57,6 @@
     }
   },
   "resetOdom": true,
-  "folder": null,
+  "folder": "Jet's inefficient autos",
   "choreoAuto": false
 }

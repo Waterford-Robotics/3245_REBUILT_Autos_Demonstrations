@@ -3,32 +3,53 @@
   "waypoints": [
     {
       "anchor": {
-        "x": 2.969,
-        "y": 4.024922222217184
+        "x": 3.5,
+        "y": 4.0
       },
       "prevControl": null,
       "nextControl": {
-        "x": 3.1027941263742598,
-        "y": 4.2361072873798244
+        "x": 3.5,
+        "y": 3.000000000000001
       },
       "isLocked": false,
-      "linkedName": "Center 0"
+      "linkedName": "In M"
     },
     {
       "anchor": {
-        "x": 2.969,
-        "y": 4.024922222217184
+        "x": 3.5,
+        "y": 1.6
       },
       "prevControl": {
-        "x": 2.818955521532585,
-        "y": 3.7880249550936127
+        "x": 3.5,
+        "y": 2.1716486415171956
+      },
+      "nextControl": {
+        "x": 3.5,
+        "y": 1.0228508098080358
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 4.45,
+        "y": 0.45
+      },
+      "prevControl": {
+        "x": 3.45,
+        "y": 0.4500000000000002
       },
       "nextControl": null,
       "isLocked": false,
-      "linkedName": "Center 90"
+      "linkedName": "Out R"
     }
   ],
-  "rotationTargets": [],
+  "rotationTargets": [
+    {
+      "waypointRelativePos": 1.0040890504316236,
+      "rotationDegrees": 0.0
+    }
+  ],
   "constraintZones": [],
   "pointTowardsZones": [],
   "eventMarkers": [],
@@ -45,7 +66,7 @@
     "rotation": 90.0
   },
   "reversed": false,
-  "folder": "Mia's paths and turns",
+  "folder": "Jet's inefficient paths",
   "idealStartingState": {
     "velocity": 0,
     "rotation": 0.0
